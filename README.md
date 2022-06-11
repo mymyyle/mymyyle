@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mymyyle&show_icons=true&theme=radical)
 
 <!--
 **mymyyle/mymyyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
